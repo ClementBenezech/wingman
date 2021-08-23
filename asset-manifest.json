@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cdbab866.chunk.css",
+    "main.js": "./static/js/main.28988341.chunk.js",
+    "main.js.map": "./static/js/main.28988341.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.fcbd96e7.js",
+    "runtime-main.js.map": "./static/js/runtime-main.fcbd96e7.js.map",
+    "static/js/2.727daead.chunk.js": "./static/js/2.727daead.chunk.js",
+    "static/js/2.727daead.chunk.js.map": "./static/js/2.727daead.chunk.js.map",
+    "static/js/3.3081def3.chunk.js": "./static/js/3.3081def3.chunk.js",
+    "static/js/3.3081def3.chunk.js.map": "./static/js/3.3081def3.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.cdbab866.chunk.css.map": "./static/css/main.cdbab866.chunk.css.map",
+    "static/js/2.727daead.chunk.js.LICENSE.txt": "./static/js/2.727daead.chunk.js.LICENSE.txt",
+    "static/media/WhoWeAre.scss": "./static/media/what-the-hex.6168eead.png",
+    "static/media/TitleCard.scss": "./static/media/connectwork.ce2e9831.png",
+    "static/media/GenericMainSection.scss": "./static/media/dot-grid.c18d167e.png",
+    "static/media/logo.566db1a9.jpg": "./static/media/logo.566db1a9.jpg",
+    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcbd96e7.js",
+    "static/js/2.727daead.chunk.js",
+    "static/css/main.cdbab866.chunk.css",
+    "static/js/main.28988341.chunk.js"
+  ]
+}
