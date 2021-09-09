@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.be5c7cac.chunk.css",
+    "main.css": "./static/css/main.8ce09a78.chunk.css",
     "main.js": "./static/js/main.b73ef886.chunk.js",
     "main.js.map": "./static/js/main.b73ef886.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.2b37bc79.js",
@@ -10,7 +10,7 @@
     "static/js/3.0d32d520.chunk.js": "./static/js/3.0d32d520.chunk.js",
     "static/js/3.0d32d520.chunk.js.map": "./static/js/3.0d32d520.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.be5c7cac.chunk.css.map": "./static/css/main.be5c7cac.chunk.css.map",
+    "static/css/main.8ce09a78.chunk.css.map": "./static/css/main.8ce09a78.chunk.css.map",
     "static/js/2.c78e0490.chunk.js.LICENSE.txt": "./static/js/2.c78e0490.chunk.js.LICENSE.txt",
     "static/media/WhoWeAre.scss": "./static/media/what-the-hex.6168eead.png",
     "static/media/TitleCard.scss": "./static/media/connectwork.ce2e9831.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.2b37bc79.js",
     "static/js/2.c78e0490.chunk.js",
-    "static/css/main.be5c7cac.chunk.css",
+    "static/css/main.8ce09a78.chunk.css",
     "static/js/main.b73ef886.chunk.js"
   ]
 }
